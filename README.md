@@ -1,6 +1,7 @@
 # Trilha6_Power_BI
 
 🏆 Semana - 1
+lição de criar dados para o RH
 
 🏆 Semana - 2
 
